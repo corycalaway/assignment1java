@@ -1,0 +1,1 @@
+document.write("Cory is number one".italics());
